@@ -3,7 +3,7 @@
 - 🌱 I’m currently Pursuing My Bachelor's degree in Computer Science💻.
 - 💞️ I’m looking to collaborate on projects👩‍🏫💻 based on ML and Data Science👩‍💻.
 - 📫 How to reach me 👇
-- mail me 💌-  neelamyadav2469@gmail.com or ny246999@gmail.com.
+- mail me 💌-  neelamyadav2469@gmail.com 
 - linkedin Id🔗 - https://www.linkedin.com/in/neelam-yadav-46aa821b5
 
 <!---
